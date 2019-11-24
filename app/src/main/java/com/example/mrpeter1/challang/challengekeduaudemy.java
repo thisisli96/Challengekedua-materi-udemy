@@ -27,6 +27,7 @@ public class challengekeduaudemy extends AppCompatActivity {
 //                Intent pindahdirec = new Intent(challengekeduaudemy.this,pindahgambar.class); // kenapa biki variabel gotosign?
 //                startActivity(pindahdirec); // saat klik dia akan keSignAct activity
                 imageView2.setImageResource(R.drawable.cat1);
+
             }
         });
     }
